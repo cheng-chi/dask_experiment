@@ -9,3 +9,6 @@ data/**
 
 # dask
 **/dask-worker-space
+
+# jupyter
+**/.ipynb_checkpoints
