@@ -1,0 +1,11 @@
+# vscode
+.vscode
+
+# MacOS
+.DS_Store
+
+# data
+data/**
+
+# dask
+**/dask-worker-space
